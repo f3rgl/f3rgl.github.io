@@ -9,7 +9,7 @@
 title: Fergal's 1st Jekyll Website
 email: fergaldowney@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  My first attempt at using Jekyll to create a basic page and hosting it on GitHub Pages.
+  My first attempt at using Jekyll to create a basic page and hosting it on GitHub Pages. Updated with a build script.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://f3rgl.github.io" # the base hostname & protocol for your site
 twitter_username: f3rgl
